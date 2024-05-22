@@ -26,7 +26,7 @@
 <a href="https://www.instagram.com/developermaster22/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/césar-linares-4b39b021a">
+<a href="https://www.linkedin.com/in/c%C3%A9sar-linares-4b39b021a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
