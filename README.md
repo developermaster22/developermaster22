@@ -1,7 +1,13 @@
+
 # Hello! I'm César Linares 💻  
 **Systems Analyst & Full-Stack Developer**  
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" height="200" />  
+---
+
+
+
+
+
 
 ## About Me 🚀  
 I'm a passionate programmer with a technical degree in **Programming and Systems Analysis**, specializing in building robust software solutions. My drive for technology and innovation leads me to develop **scalable and efficient systems** tailored to business needs.
@@ -59,3 +65,5 @@ Currently exploring:
 - React Hooks and Context API
 - Database optimization techniques
 - CI/CD pipelines
+
+
