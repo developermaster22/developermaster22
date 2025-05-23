@@ -1,42 +1,61 @@
- <h1>Hola! Soy César Linares</h1>
- **Entusiasta Analista en Sistemas y Programación** 
+# Hello! I'm César Linares 💻  
+**Systems Analyst & Full-Stack Developer**  
 
-  <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-  
-  ## About me &#128513;
-  <p>
-  <b>
- Soy un programador egresado de una carrera técnica en Programación y Análisis en Sistemas, apasionado por el desarrollo de software. Mi entusiasmo por la tecnología y la innovación me impulsa a crear soluciones personalizadas y eficaces para cada cliente. Me motiva enfrentar nuevos desafíos y optimizar procesos, siempre con el objetivo de entregar productos de alta calidad que superen las expectativas. Mi formación técnica y mi dedicación constante me permiten adaptarme rápidamente a las necesidades del mercado y ofrecer respuestas eficientes en el ámbito del desarrollo de software.
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" height="200" />  
 
-##  trabajar connmigo siempre será un buen augurio :)&#128519;
-   
- <h1>Mi stack de Habilidades</h1>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><img src="https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML y CSS"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  </b>
-  
-  </p>
-  
+## About Me 🚀  
+I'm a passionate programmer with a technical degree in **Programming and Systems Analysis**, specializing in building robust software solutions. My drive for technology and innovation leads me to develop **scalable and efficient systems** tailored to business needs.
 
-- 🔭 En este momento, estoy intentando crear un juego básico con Unity
-- 🌱 Estoy aprendiendo React y estudiando para certificarme en PMP.
+**Let's build something extraordinary together!**  
 
-<br>
+---
 
-## Mantente en contacto conmigo😊
-<a href="https://www.instagram.com/developermaster22/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/c%C3%A9sar-linares-4b39b021a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## 🛠️ My Tech Stack  
 
-<br />
-<br />
+### **Core Technologies**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
 
-## StreakStats 🚀
+### **Backend & Databases**  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developermaster22&theme=vue-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+### **DevOps & Tools**  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)  
 
+---
 
------
-<br />
+## 🔥 Current Projects & Learning  
+- 🚀 Building a **management system** with Django and React  
+- 📊 Mastering **PostgreSQL** for complex data operations  
+- 🐳 **Dockerizing** my development workflow  
+- 🎓 Pursuing **PMP certification** for project management excellence  
+
+---
+
+## 📫 Let's Connect  
+
+[![Email](https://img.shields.io/badge/Email_Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarlinares1522@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-linares-4b39b021a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developermaster22)  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=developermaster22&theme=vue-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developermaster22&layout=compact&theme=vue-dark&hide=html,css)
+
+---
+
+### **💡 Always Learning**  
+Currently exploring:
+- Advanced Django REST Framework
+- React Hooks and Context API
+- Database optimization techniques
+- CI/CD pipelines
