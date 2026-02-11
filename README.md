@@ -1,69 +1,71 @@
-
-# Hello! I'm César Linares 💻  
-**Systems Analyst & Full-Stack Developer**  
-
----
-
-
-
-
-
-
-## About Me 🚀  
-I'm a passionate programmer with a technical degree in **Programming and Systems Analysis**, specializing in building robust software solutions. My drive for technology and innovation leads me to develop **scalable and efficient systems** tailored to business needs.
-
-**Let's build something extraordinary together!**  
+# Hello! I'm César Linares 💻
+**Systems Analyst & Full-Stack Developer | Aspiring Tech Lead**
 
 ---
 
-## 🛠️ My Tech Stack  
+## 🚀 About Me
+I am a software architecture enthusiast and process optimization expert. With a technical degree in **Systems Analysis and Programming**, I specialize in building scalable solutions that deliver real business value.
 
-### **Core Technologies**  
+As an **aspiring Tech Lead**, I focus on maintaining high code quality standards, fostering technical collaboration, and implementing **Agile methodologies (Scrum & Kanban)** to ensure efficient delivery.
+
+**Let's build something extraordinary together!**
+
+---
+
+## 🛠️ My Tech Stack
+
+### **Frontend Development**
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+### **Backend & Databases**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
-
-### **Backend & Databases**  
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### **DevOps & Tools**  
+### **DevOps & Version Control**
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developermaster22)
 
 ---
 
-## 🔥 Current Projects & Learning  
-- 🚀 Building a **management system** with Django and React  
-- 📊 Mastering **PostgreSQL** for complex data operations  
-- 🐳 **Dockerizing** my development workflow  
-- 🎓 Pursuing **PMP certification** for project management excellence  
+## 🧠 Agile Mindset & Leadership
+* **Methodologies:** Expert handling of **Scrum** and **Kanban** for efficient workflow management.
+* **Tools:** Jira, Trello, and Slack for team synchronization.
+* **Vision:** Focused on technical mentorship, code reviews, and architectural decision-making.
 
 ---
 
-## 📫 Let's Connect  
-
-[![Email](https://img.shields.io/badge/Email_Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarlinares1522@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-linares-4b39b021a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developermaster22)  
+## 🔥 Current Projects & Learning
+* 🎮 Developing **"LIER GAME"**, an immersive gaming experience.
+* 🛠️ Building **"ReadySet"**, a specialized high-performance project.
+* 🚀 Working on an **Enterprise Management System** (Django + React + Tailwind).
+* 📊 Optimizing complex data structures in **PostgreSQL**.
+* 🎓 Pursuing **PMP Certification** to solidify my project management and leadership skills.
 
 ---
+
+
 
 ## 📊 GitHub Stats  
 
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=developermaster22&theme=vue-dark&hide_border=true)
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developermaster22&layout=compact&theme=vue-dark&hide=html,css)
 
+
+
 ---
+## 📫 Let's Connect
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-linares-4b39b021a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarlinares1522@gmail.com)
 
-### **💡 Always Learning**  
-Currently exploring:
-- Advanced Django REST Framework
-- React Hooks and Context API
-- Database optimization techniques
-- CI/CD pipelines
-
-
+---
