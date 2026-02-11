@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I am a software architecture enthusiast and process optimization expert. With a technical degree in **Systems Analysis and Programming**, I specialize in building scalable solutions that deliver real business value.
 
-As an **aspiring Tech Lead**, I focus on maintaining high code quality standards, fostering technical collaboration, and implementing **Agile methodologies (Scrum & Kanban)** to ensure efficient delivery.
+As an **aspiring Tech Lead**, I focus on maintaining high code quality standards, fostering technical collaboration, and implementing **Agile methodologies** to ensure efficient delivery.
 
 **Let's build something extraordinary together!**
 
@@ -34,9 +34,17 @@ As an **aspiring Tech Lead**, I focus on maintaining high code quality standards
 ---
 
 ## 🧠 Agile Mindset & Leadership
-* **Methodologies:** Expert handling of **Scrum** and **Kanban** for efficient workflow management.
-* **Tools:** Jira, Trello, and Slack for team synchronization.
-* **Vision:** Focused on technical mentorship, code reviews, and architectural decision-making.
+
+### **Methodologies**
+![Scrum](https://img.shields.io/badge/Scrum-FFFFFF?style=for-the-badge&logo=scrumalliance&logoColor=black)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)
+
+### **Management Tools**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+> **Vision:** Focused on technical mentorship, code reviews, and architectural decision-making to scale high-performing teams.
 
 ---
 
@@ -50,7 +58,6 @@ As an **aspiring Tech Lead**, I focus on maintaining high code quality standards
 ---
 
 ## 📊 Contribution Graph
-> This graph shows my contribution activity over the last few months.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=developermaster22&theme=react-dark&hide_border=true&area=true" alt="Cesar's Contribution Graph" />
 </p>
@@ -58,7 +65,6 @@ As an **aspiring Tech Lead**, I focus on maintaining high code quality standards
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=developermaster22&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
 
