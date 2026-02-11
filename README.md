@@ -45,27 +45,27 @@ As an **aspiring Tech Lead**, I focus on maintaining high code quality standards
 * 🛠️ Building **"ReadySet"**, a specialized high-performance project.
 * 🚀 Working on an **Enterprise Management System** (Django + React + Tailwind).
 * 📊 Optimizing complex data structures in **PostgreSQL**.
-* 🎓 Pursuing **PMP Certification** to solidify my project management and leadership skills.
+* 🎓 Pursuing **PMP Certification** to solidify my project management skills.
 
 ---
 
+## 📊 Contribution Graph
+> This graph shows my contribution activity over the last few months.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developermaster22&theme=react-dark&hide_border=true&area=true" alt="Cesar's Contribution Graph" />
+</p>
 
-
-## 📊 GitHub Stats  
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=developermaster22&theme=vue-dark&hide_border=true)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developermaster22&layout=compact&theme=vue-dark&hide=html,css)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=developermaster22&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 ---
+
 ## 📫 Let's Connect
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-linares-4b39b021a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarlinares1522@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/c%C3%A9sar-linares-4b39b021a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:cesarlinares1522@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
